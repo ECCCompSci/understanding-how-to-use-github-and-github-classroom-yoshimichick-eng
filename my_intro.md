@@ -8,11 +8,11 @@
 
 **What is your first and last name?**
 
-My name is: _____
+My name is: Yoshimi Chick
 
 **What grade are you in?**
 
-I am in: _____ grade.
+I am in: tenth grade.
 
 ---
 
@@ -20,11 +20,11 @@ I am in: _____ grade.
 
 **Have you used GitHub before this class? (Yes / No)**
 
-Answer: _____
+Answer: No
 
 **On a scale of 1–5, how comfortable are you with computers and technology? (1 = not at all, 5 = very comfortable)**
 
-Rating: _____
+Rating: 3
 
 ---
 
@@ -32,7 +32,7 @@ Rating: _____
 
 **In your own words, what does it mean to "clone" a repository?**
 
-Answer: _____
+Answer: To clone a repository means to me to create another repository.
 
 ---
 
@@ -40,7 +40,7 @@ Answer: _____
 
 **Describe the steps you followed to turn in this assignment. What did you do after editing this file?**
 
-Answer: _____
+Answer: Firstly, I downloaded GitHub Classroom and I created an account, I did this through my Canvas CSE classroom. I went to the assignment link and I followed all the steps.
 
 ---
 
@@ -48,7 +48,7 @@ Answer: _____
 
 **Share one fun fact about yourself:**
 
-Fun fact: _____
+Fun fact: I can wistle bird calls so well that birds come to me in the woods sometimes.
 
 ---
 
